@@ -427,3 +427,15 @@ img {
 	margin-top: 3rem;
 }
 }
+
+@media(max-width: 463px) {
+	html {
+		font-size: .9rem;
+	}
+}
+
+@media(max-width: 413px) {
+	html {
+		font-size: .8rem;
+	}
+}
